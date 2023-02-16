@@ -25,3 +25,22 @@ failure
 success
 5
   ```
+  Sample Input 2:
+  ```
+CRT 10
+DEF x 4
+DEF y 5
+DEF z 6
+ADD x y z
+PRT z
+END
+  ```
+  Sample Output 2:
+  ```
+success
+success
+success
+success
+success
+9
+  ```
