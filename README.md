@@ -1,6 +1,6 @@
 The goal of this project is to implement a simple calculator that can add and subtract variables stored in a linked list. 
 
-Sample Input 1:
+  Sample Input 1:
   CRT 2
   DEF x 3
   DEF y 2
